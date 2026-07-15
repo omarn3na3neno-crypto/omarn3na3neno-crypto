@@ -1,76 +1,70 @@
-<h1 align="center">Hey! 👋 Need a Full-Stack Developer for your next project?</h1>
+<!-- عنوان ترحيبي احترافي ومتحرك -->
+<h1 align="center">Hi, I'm Omar! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+%2F+Django+Specialist;Building+Scalable+Backends" alt="Typing SVG" />
+</p>
 
-###
-
-<p align="left">I'm Omar, a Full-Stack Developer</p>
-
-###
-
-<h2 align="left">My Roles:</h2>
-
-###
-
-<p align="left">💻 Role: Full Stack Developer | Crafting beautiful frontends & robust backends.<br>🛠️ Stack: Python (Django) & Modern Frontend Technologies.<br>⚡ Focus: Building clean user interfaces backed by secure, scalable APIs.<br>🎯 Goal: Delivering complete, high-performance web products from scratch.</p>
-
-###
-
-<h2 align="left">Skills you might want to know about me:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="40" alt="fastapi logo"  />
-</div>
-
-###
-
-<br clear="both">
 <br>
 
-<!-- تنظيم السوشيال ميديا والـ Snake والصورة في صف واحد متناسق -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!-- قسم التعريف الشخصي والصورة بتنسيق شبكي نظيف جداً -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- العمود الشمال: فيه السوشيال ميديا وتحتها الـ Snake -->
     <td valign="top" width="60%">
-      <div align="left">
-        <a href="https://www.linkedin.com/in/omar-mohamed-133026396?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-        </a>
-        <a href="https://wa.me/201011535827" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-        </a>
-        <a href="https://www.facebook.com/share/1D7ZafFo31/" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-        </a>
-        <a href="mailto:omar.n3na3.neno@gmail.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-        </a>
-      </div>
-      <br><br>
-      <!-- الـ Snake تحت الأزرار مباشرة ومحاذاته مظبوطة -->
-      <div align="left">
-        <img src="https://raw.githubusercontent.com/omarn3na3neno-crypto/omarn3na3neno-crypto/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" style="max-width: 450px;" />
-      </div>
+      <h3>💫 About Me</h3>
+      <p>I'm a passionate <b>Full-Stack Developer</b> dedicated to crafting beautiful frontends and robust, secure backends. I specialize in building clean user interfaces backed by scalable APIs.</p>
+      <ul>
+        <li>🛠️ <b>Tech Stack:</b> Python (Django), JavaScript, FastAPI</li>
+        <li>⚡ <b>Focus:</b> Secure, scalable APIs & clean UI/UX</li>
+        <li>🎯 <b>Goal:</b> Delivering high-performance web products from scratch</li>
+      </ul>
     </td>
-    <!-- العمود اليمين: فيه الصورة الـ GIF فقط -->
-    <td valign="middle" align="right" width="40%">
-      <img height="200" src="https://media1.tenor.com/m/4skMdnu8jDEAAAAd/business-man-leon-short.gif" alt="Business man" />
+    <td valign="top" width="40%" align="right">
+      <img src="https://media1.tenor.com/m/4skMdnu8jDEAAAAd/business-man-leon-short.gif" height="170" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
-###
+<br><hr><br>
+
+<!-- قسم المهارات بأزرار موحدة التصميم وأنيقة جداً -->
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+</p>
+
+<br><hr><br>
+
+<!-- قسم تواصل معي بأزرار متناسقة وسريعة الاستجابة -->
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
+  <a href="https://wa.me/201011535827" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:omar.n3na3.neno@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/omar-mohamed-133026396?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1D7ZafFo31/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<br><hr><br>
+
+<!-- لعبة الـ Snake متمركزة في النهاية بشكل ممتاز كلوحة تفاعلية -->
+<h3 align="center">👾 My Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omarn3na3neno-crypto/omarn3na3neno-crypto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<br>
