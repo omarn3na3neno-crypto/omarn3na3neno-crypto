@@ -6,23 +6,18 @@
 
 <br>
 
-<!-- قسم التعريف الشخصي والصورة بتنسيق شبكي نظيف جداً -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="60%">
-      <h3>💫 About Me</h3>
-      <p>I'm a passionate <b>Full-Stack Developer</b> dedicated to crafting beautiful frontends and robust, secure backends. I specialize in building clean user interfaces backed by scalable APIs.</p>
-      <ul>
-        <li>🛠️ <b>Tech Stack:</b> Python (Django), JavaScript, FastAPI</li>
-        <li>⚡ <b>Focus:</b> Secure, scalable APIs & clean UI/UX</li>
-        <li>🎯 <b>Goal:</b> Delivering high-performance web products from scratch</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%" align="right">
-      <img src="https://media1.tenor.com/m/4skMdnu8jDEAAAAd/business-man-leon-short.gif" height="170" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<!-- الجزء التعريفي بدون جداول (شكل أنظف بكتير) -->
+<h3>💫 About Me</h3>
+
+<img align="right" src="https://media1.tenor.com/m/4skMdnu8jDEAAAAd/business-man-leon-short.gif" height="180" style="border-radius: 12px; margin-left: 20px; margin-bottom: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
+
+I'm a passionate **Full-Stack Developer** dedicated to crafting beautiful frontends and robust, secure backends. I specialize in building clean user interfaces backed by scalable APIs.
+
+* 🛠️ **Tech Stack:** Python (Django), JavaScript, FastAPI
+* ⚡ **Focus:** Secure, scalable APIs & clean UI/UX
+* 🎯 **Goal:** Delivering high-performance web products from scratch
+
+<br clear="both">
 
 <br><hr><br>
 
