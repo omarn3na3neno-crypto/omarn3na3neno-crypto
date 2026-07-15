@@ -39,31 +39,38 @@
 ###
 
 <br clear="both">
-
-<!-- الجزء ده فيه الصورة والروابط والـ Snake متظبطين تماماً ومحاذاتهم مظبوطة -->
-<img align="right" height="200" src="https://media1.tenor.com/m/4skMdnu8jDEAAAAd/business-man-leon-short.gif"  />
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/omar-mohamed-133026396?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/201011535827" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1D7ZafFo31/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="mailto:omar.n3na3.neno@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-<br clear="both">
 <br>
 
-<!-- توسيط الـ Snake لتظهر بشكل مريح للعين وأنيق في المنتصف تماماً -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omarn3na3neno-crypto/omarn3na3neno-crypto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<!-- تنظيم السوشيال ميديا والـ Snake والصورة في صف واحد متناسق -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- العمود الشمال: فيه السوشيال ميديا وتحتها الـ Snake -->
+    <td valign="top" width="60%">
+      <div align="left">
+        <a href="https://www.linkedin.com/in/omar-mohamed-133026396?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+        </a>
+        <a href="https://wa.me/201011535827" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+        </a>
+        <a href="https://www.facebook.com/share/1D7ZafFo31/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+        </a>
+        <a href="mailto:omar.n3na3.neno@gmail.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+        </a>
+      </div>
+      <br><br>
+      <!-- الـ Snake تحت الأزرار مباشرة ومحاذاته مظبوطة -->
+      <div align="left">
+        <img src="https://raw.githubusercontent.com/omarn3na3neno-crypto/omarn3na3neno-crypto/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" style="max-width: 450px;" />
+      </div>
+    </td>
+    <!-- العمود اليمين: فيه الصورة الـ GIF فقط -->
+    <td valign="middle" align="right" width="40%">
+      <img height="200" src="https://media1.tenor.com/m/4skMdnu8jDEAAAAd/business-man-leon-short.gif" alt="Business man" />
+    </td>
+  </tr>
+</table>
 
 ###
