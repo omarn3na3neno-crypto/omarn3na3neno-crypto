@@ -2,9 +2,6 @@
 
 ###
 
-<!-- نقلنا الصورة هنا على اليمين عشان الكلام يلتف حولها على الشمال -->
-<img align="right" height="200" src="https://media1.tenor.com/m/4skMdnu8jDEAAAAd/business-man-leon-short.gif" />
-
 <p align="left">I'm Omar, a Full-Stack Developer</p>
 
 ###
@@ -14,9 +11,6 @@
 ###
 
 <p align="left">💻 Role: Full Stack Developer | Crafting beautiful frontends & robust backends.<br>🛠️ Stack: Python (Django) & Modern Frontend Technologies.<br>⚡ Focus: Building clean user interfaces backed by secure, scalable APIs.<br>🎯 Goal: Delivering complete, high-performance web products from scratch.</p>
-
-<!-- السطر ده مهم عشان ينهي التفاف الكلام حول الصورة وميأثرش على الأقسام اللي تحت -->
-<br clear="both">
 
 ###
 
@@ -45,7 +39,9 @@
 ###
 
 <br clear="both">
-<br>
+
+<!-- الجزء ده فيه الصورة والروابط والـ Snake متظبطين تماماً ومحاذاتهم مظبوطة -->
+<img align="right" height="200" src="https://media1.tenor.com/m/4skMdnu8jDEAAAAd/business-man-leon-short.gif"  />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/omar-mohamed-133026396?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
