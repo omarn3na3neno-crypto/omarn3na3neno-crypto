@@ -63,12 +63,4 @@
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/omarn3na3neno-crypto/omarn3na3neno-crypto/snake-output/snake.svg" alt="Snake animation" />
 
-###width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/omarn3na3neno-crypto/omarn3na3neno-crypto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 ###
